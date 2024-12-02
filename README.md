@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Muhammad Lailfachry Yusrie</h1>
 <h3 align="center">I am an aerospace engineering student at Bandung Institute of Technology. I have interest in Coding and data stuff, especially Machine Learning, Data Analyst, and also a Data Scientist</h3>
 
-- 📫 How to reach me **yusrie.company@gmail.com**
+- 📫 How to reach me **fachryyusrie@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
